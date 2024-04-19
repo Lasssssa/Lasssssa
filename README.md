@@ -1,12 +1,16 @@
 # My profile
 
+## 👤 About me
+
 👋 Hi, I’m @Lasssssa, I'm an IT Engineering student in computer science at INSA Lyon. 
 
-💻📱Passionate about computer science for a long time, I chose to integrate an engineering school offering a course in this field in order to be able to directly practice many languages useful in companies. 
+💻📱 I'm a french developer specializing in web development and low-level languages. I also love cybersecurity, which is why I like to take part in CTFs.
 
-🎯 Conceptualize and develop new technological solutions for companies, is what characterizes the job of software engineer as I see it. I'm always ready to take on new challenges !
+📚 A little fun fact about me is that I'm also a writer.
 
-➡️ Choosing me, as a future collaborator, is also choosing someone who is dynamic, determined, curious and who loves to work in a team.
+## Programming languages I'm used to using
+  🐘 PHP
+  🌐 JavaScript
+  🛠️ C/C++
 
-📧 If you wish to contact me : theo.porodo@insa-lyon.fr
-
+📧 If you wish to contact me : tporodo@gmail.com
