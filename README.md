@@ -8,9 +8,11 @@
 
 📚 A little fun fact about me is that I'm also a writer.
 
-## Programming languages I'm used to using
+## ⚙️ Programming languages I'm used to using
   🐘 PHP
+  
   🌐 JavaScript
+  
   🛠️ C/C++
 
 📧 If you wish to contact me : tporodo@gmail.com
